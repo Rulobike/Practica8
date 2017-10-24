@@ -8,6 +8,7 @@ using UIKit;
 using Practica8.iOS;
 using System.IO;
 using Xamarin.Forms;
+using SQLite;
 
 [assembly: Dependency(typeof(ISQLite_IOS))]
 namespace Practica8.iOS

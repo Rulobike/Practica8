@@ -10,7 +10,8 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Practica8.Droid;
-
+using System.IO;
+using System.Runtime.CompilerServices;
 
 [assembly: Dependency(typeof(ISQLite_Android))]
 namespace Practica8.Droid
